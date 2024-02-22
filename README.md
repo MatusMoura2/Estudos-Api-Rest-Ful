@@ -11,7 +11,7 @@ Este é um projeto de exemplo que implementa uma API RESTful para gerenciar prod
 
 ## Api rest ful?
 
-    Uma API REST é uma interface de programação de aplicações que segue os princípios
+Uma API REST é uma interface de programação de aplicações que segue os princípios
 da arquitetura REST (Representational State Transfer), enquanto uma API RESTful é uma
 implementação específica desses princípios. Enquanto uma API REST é uma abordagem para
 desenvolver APIs baseadas em web, uma API RESTful segue rigorosamente os princípios 

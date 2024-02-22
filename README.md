@@ -35,22 +35,18 @@ RESTful é uma implementação prática dos conceitos teóricos de uma API REST.
 
 1. Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/Estudos-Api-Rest-Ful.git
 Navegue até o diretório do projeto:
-bash
 
-cd nome-do-repositorio
+cd Estudos-Api-Rest-Ful
 Compile o projeto (se estiver utilizando Maven):
-bash
-Copy code
+
 mvn clean install
 ou (se estiver utilizando Gradle):
 
 gradle build
 Inicie a aplicação:
-bash
-Copy code
-java -jar target/nome-do-arquivo.jar
+
 Acesse a documentação da API para obter informações sobre os endpoints e como utilizá-los. A documentação pode ser acessada em http://localhost:8080/swagger-ui.html após a aplicação ser iniciada.
 Contribuindo
 Sinta-se à vontade para contribuir com melhorias para este projeto. Se você encontrar bugs ou tiver sugestões de novos recursos, por favor, abra uma issue ou envie um pull request.
